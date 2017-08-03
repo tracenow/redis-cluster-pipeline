@@ -1,4 +1,5 @@
 # ignore all hidden files and maven target folder, please don't named your folder as 'target/bin/tmp'
+.*
 target/
 bin/
 tmp/
